@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @saijaseppa
 - ✨ I’m currently studying computer science in Tampere University.
+- ✨ Repositories include some of my assignments from studies. 
 
 
 <!---
