@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saijaseppa
 - ✨ I have recently graduated as MSc, Computer Sciences, Tampere University.
-- ✨ My public repositories include my thesis project "euromo-thesis" and also some of my assignments from studies. 
+- ✨ My public repository include my thesis project "euromo-thesis".
 
 
 <!---
